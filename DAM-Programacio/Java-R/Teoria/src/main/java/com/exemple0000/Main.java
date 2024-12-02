@@ -7,6 +7,7 @@ public class Main {
     public static void main(String[] args) {
         /* Escriure un missatge 
            al terminal */
+        System.out.println("Funciona correctamente el maven");
         System.out.println("Hola món!");
     }
 }
